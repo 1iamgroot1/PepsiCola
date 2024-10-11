@@ -1,0 +1,13 @@
+# Ignore database credentials file
+database.php
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor backup files
+*~
+*.swp
+
+# Ignore log files
+*.log
